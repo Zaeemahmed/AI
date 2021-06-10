@@ -1,6 +1,6 @@
 Flask==1.1.2
 numpy==1.20.2
 matplotlib
-tensorflow==1.15
+tensorflow-cpu
 opencv-python
 Pillow
