@@ -1,3 +1,10 @@
-
+Flask
+opencv-python
+tensorflow
+werkzeug
+flask_cors
+pillow
+numpy
+matplotlib
 
 

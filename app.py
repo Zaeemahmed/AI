@@ -14,9 +14,6 @@ SIZE=160
 
 logging.basicConfig(level=logging.INFO)
 
-logger = logging.getLogger('HELLO WORLD')
-
-tf.keras.models.load_model('colorizer.h5')
 
 UPLOAD_FOLDER = '/static/uploads'
 ALLOWED_EXTENSIONS = set(['txt', 'pdf', 'png', 'jpg', 'jpeg'])
