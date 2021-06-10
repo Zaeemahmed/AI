@@ -1,7 +1,7 @@
 flask
 numpy
 matplotlib
-tensorflow-cpu
+tensorflow==1.7.0
 opencv-python
 Pillow
 werkzeug
