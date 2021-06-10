@@ -1,7 +1,7 @@
-flask
+Flask==0.12.1
+tensorflow==1.0.1
 numpy
 matplotlib
-https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.0-cp27-none-linux_x86_64.whl
 opencv-python
 Pillow
 werkzeug
