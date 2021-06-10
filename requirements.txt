@@ -17,3 +17,10 @@ scipy==1.6.2
 six==1.15.0
 threadpoolctl==2.1.0
 Werkzeug==1.0.1
+Keras==2.2.5
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+keras-vis==0.4.1
+tensorflow==2.3.1
+opencv-python
+Pillow 
