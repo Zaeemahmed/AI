@@ -25,6 +25,10 @@ model = tf.keras.models.load_model('colorizer.h5')
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
+@app.route('/', methods=['GET'])
+def home():
+    return "Welcome"
+
 @app.route('/upload', methods=['POST'])
 def fileUpload():
     logger.info("welcome to upload`")
