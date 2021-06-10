@@ -5,4 +5,4 @@ tensorflow-cpu
 opencv-python
 Pillow
 werkzeug
-logginh
+logging
