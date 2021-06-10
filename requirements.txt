@@ -1,6 +1,6 @@
 Flask==1.1.2
 numpy==1.20.2
-tensorflow
+matplotlib
+tensorflow==1.0.0
 opencv-python
 Pillow
-flask_cors
