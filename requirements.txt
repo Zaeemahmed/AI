@@ -1,8 +1,10 @@
-Flask==1.1.2
-numpy==1.20.2
+flask
+numpy
 matplotlib
 tensorflow-cpu
 opencv-python
 Pillow
 werkzeug
 flask_cors
+logging
+
