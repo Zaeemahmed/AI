@@ -5,7 +5,6 @@ from flask_cors import CORS, cross_origin
 import logging
 from PIL import ImageFile, Image
 from tensorflow.keras.preprocessing import image
-from keras import pre
 import tensorflow as tf
 import cv2
 import numpy as np

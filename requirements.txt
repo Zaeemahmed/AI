@@ -4,3 +4,5 @@ matplotlib
 tensorflow-cpu
 opencv-python
 Pillow
+werkzeug
+logginh
