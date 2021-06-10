@@ -6,5 +6,5 @@ opencv-python
 Pillow
 werkzeug
 flask_cors
-logging
+
 
